@@ -10,6 +10,10 @@ channel, which could be modified by the slider visual interface or by the input 
 Customizations include adjustments of color picker type, stacking direction, default color value, visibility of separate
 elements and the picker as a whole.
 
+<p align="center">
+  <img src="./thumbnail.png" alt="main thumbnail" width="780"/>
+</p>
+
 ## Properties
 
 | Property                  | Type       | Default value | Logic                | Data Binding | UI Setting | Description                                                  |
