@@ -3,7 +3,7 @@
 Transfer list is a component of Backendless UI-Builder designer. It allows you to move one or more list items between lists.
 
 <p align="center">
-  <img alt="main thumbnail" height="263" src="./thumbnail.png" width="420"/>
+  <img src="./thumbnail.png" alt="main thumbnail" width="780"/>
 </p>
 
 ## Properties
